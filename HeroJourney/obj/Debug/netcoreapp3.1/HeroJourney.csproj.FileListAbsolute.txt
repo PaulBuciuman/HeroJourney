@@ -1,0 +1,13 @@
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\bin\Debug\netcoreapp3.1\HeroJourney.exe
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\bin\Debug\netcoreapp3.1\HeroJourney.deps.json
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\bin\Debug\netcoreapp3.1\HeroJourney.runtimeconfig.json
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\bin\Debug\netcoreapp3.1\HeroJourney.runtimeconfig.dev.json
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\bin\Debug\netcoreapp3.1\HeroJourney.dll
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\bin\Debug\netcoreapp3.1\HeroJourney.pdb
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\obj\Debug\netcoreapp3.1\HeroJourney.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\obj\Debug\netcoreapp3.1\HeroJourney.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\obj\Debug\netcoreapp3.1\HeroJourney.AssemblyInfoInputs.cache
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\obj\Debug\netcoreapp3.1\HeroJourney.AssemblyInfo.cs
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\obj\Debug\netcoreapp3.1\HeroJourney.dll
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\obj\Debug\netcoreapp3.1\HeroJourney.pdb
+C:\Users\Paul\source\repos\HeroJourney\HeroJourney\obj\Debug\netcoreapp3.1\HeroJourney.genruntimeconfig.cache
